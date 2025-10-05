@@ -16,7 +16,7 @@ cd src/index.js
 
 `node index.js`
 
-## Run and test in Winglang
+git add newfile.txt existingfile.txt
 
 `wing it main.w`
 
